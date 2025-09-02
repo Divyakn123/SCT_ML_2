@@ -103,20 +103,6 @@ These insights help businesses target each group with suitable marketing strateg
 
 ---
 
-📌 How to Run
-
-# Clone the repository
-git clone <repo_link>
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the script
-python kmeans_mall_customers.py
-
-
----
-
 📷 Sample Visualization
 
 Scatter plot of customer segments
